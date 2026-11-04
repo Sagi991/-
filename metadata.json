@@ -1,0 +1,8 @@
+{
+  "name": "Remix Раскрой PRO — Карта раскроя",
+  "description": "Профессиональный 2D калькулятор и оптимизатор карты раскроя ЛДСП, МДФ, фанеры для мебельного производства.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
